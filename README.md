@@ -1,3 +1,4 @@
+# goes_butler
 This script pulls and downloads data from the GOES weather satellite page. Hopefully the settings are self explainatory. 
 
 http://andrewpeng.net
