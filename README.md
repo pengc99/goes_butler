@@ -1,7 +1,7 @@
 # goes_butler
 This script pulls and downloads data from the GOES weather satellite page. Hopefully the settings are self explainatory. 
 
-http://andrewpeng.net
+***
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
