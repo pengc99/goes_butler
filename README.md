@@ -1,6 +1,8 @@
 # goes_butler
 This script pulls and downloads data from the GOES weather satellite page. Hopefully the settings are self explainatory. 
 
+The script runs in an infinite loop and will need to be backgrounded to continue executing. I use this under [GNU screen](https://www.gnu.org/software/screen/).
+
 ***
 
 This program is free software: you can redistribute it and/or modify
