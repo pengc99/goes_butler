@@ -35,5 +35,5 @@ do
         datecode=`date +%Y%j%H%M`
 
         # Sleep and wait, then loop again
-        sleep "$wait"m
+        sleep "$wait"
 done
